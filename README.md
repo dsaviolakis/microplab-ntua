@@ -1,6 +1,6 @@
 # Microprocessors Laboratory @ NTUA
 
-## Students (equal contribution):
+## Students:
 
 - [Dimitrios Dimitrakopoulos](https://github.com/ddimitrakopoulos)
 
